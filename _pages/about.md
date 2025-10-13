@@ -243,7 +243,7 @@ Your browser does not support the audio element.
 - **Tao Wang**, Jianwei Yang, Zhen Lei, Shengcai Liao, Stan Z. Li. “Face Liveness Detection
 Using 3D Structure Recovered from a Single Camera”. ICB2013. Madrid, Spain, June 4-7, 2013. Citations:162
 - **Tao Wang**, Changxu Cheng, Lingfeng Wang, Senda Chen, Wuyue Zhao. "HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model". arXiv:2503.13026. Accepted by **ICCV 2025**. the code is at <a href='https://github.com/yayafengzi/LMM-HiMTok'>GitHub</a>
-- Lingfeng Wang, Hualing Lin, Senda Chen, **Tao Wang**, Changxu Cheng, Yangyang Zhong, Dong Zheng, Wuyue Zhao. "ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation". arXiv:2505.16495. Accepted by **NeurIPS 2025**. the code is at <a href='https://github.com/yayafengzi/ALToLLM'>GitHub</a>
+- Lingfeng Wang\*, Hualing Lin\*, Senda Chen\*, **Tao Wang\***, Changxu Cheng, Yangyang Zhong, Dong Zheng, Wuyue Zhao. "ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation". arXiv:2505.16495. Accepted by **NeurIPS 2025**. the code is at <a href='https://github.com/yayafengzi/ALToLLM'>GitHub</a>
 
 # 🎖 Honors and Awards
 - National Scholarship three times
