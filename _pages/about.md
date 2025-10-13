@@ -38,6 +38,43 @@ If you are interested in collaborating with me to explore the development of nex
 <div class='paper-box'><div class='paper-box-image'>
 <div>
 <div class="badge"></div>
+<img src='images/alto.png' alt="sym" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+<b>Adaptive-Length Tokenizer for Autoregressive Mask Generation</b>
+
+- Project Duration: 2025
+- Propose ALTo, an adaptive-length mask tokenizer that, for the first time, enables the model to
+autonomously determine the number of mask tokens based on the complexity of the input mask.
+- Develop ALToLLM, which integrates ALTo into a multimodal large language model (MLLM),
+enabling adaptive mask token generation for object segmentation tasks.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge"></div>
+<img src='images/hitok.png' alt="sym" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+<b>Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model</b>
+
+- Project Duration: 2025
+- Compresses a full mask into ≤32 discrete tokens, so inference reduces to the LLM’s native next-token prediction paradigm.
+- Recovers masks **without the original image**, removing the extra segmentation decoder and simplifying the pipeline.
+- Hierarchical Mask Tokens support **progressive detail** refinement for high-quality masks.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge"></div>
 <img src='images/whiteboard_exported_image.png' alt="sym" width="100%">
 </div>
 </div>
@@ -205,6 +242,8 @@ Your browser does not support the audio element.
 <!-- - [Face liveness detection using 3D structure recovered from a single camera](https://nlpr.ia.ac.cn/2013papers/gjhy/gh95.pdf), Wang T, Yang J, Lei Z, et al. -->
 - **Tao Wang**, Jianwei Yang, Zhen Lei, Shengcai Liao, Stan Z. Li. “Face Liveness Detection
 Using 3D Structure Recovered from a Single Camera”. ICB2013. Madrid, Spain, June 4-7, 2013. Citations:162
+- **Tao Wang**, Changxu Cheng, Lingfeng Wang, Senda Chen, Wuyue Zhao. "HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model". arXiv:2503.13026. Accepted by **ICCV 2025**. the code is at <a href='https://github.com/yayafengzi/LMM-HiMTok'>GitHub</a>
+- Lingfeng Wang, Hualing Lin, Senda Chen, **Tao Wang**, Changxu Cheng, Yangyang Zhong, Dong Zheng, Wuyue Zhao. "ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation". arXiv:2505.16495. Accepted by **NeurIPS 2025**. the code is at <a href='https://github.com/yayafengzi/ALToLLM'>GitHub</a>
 
 # 🎖 Honors and Awards
 - National Scholarship three times
