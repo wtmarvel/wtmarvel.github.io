@@ -23,17 +23,70 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 About Me
 
-Hello, I am a Senior Algorithm Expert in the Multimodal Group at  <a href = 'https://www.01.ai'>01.AI</a>. My research interests cover computer vision, vision and language, and multimodal generation. Specifically, I focus on image generation, video generation, and speech generation, with precise control over these processes through text, images, and speech.
-Before joining 01.AI, I was the head of the AI department at Xinhua Zhiyun, an Alibaba-affiliated company. Prior to that, I was the co-founder and CTO of <a href='https://uni-ubi.com'>UniUbi</a>. I received my master's degree in 2015 from the Institute of Automation, Chinese Academy of Sciences, under the supervision of Professor <a href='https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN'>Stan Z. Li</a>. During my career, I have been dedicated to advancing AI research and have successfully implemented several AI applications, particularly in the areas of content creation and enhancement.
-If you are interested in collaborating with me to explore the development of next-generation multimodal models, please feel free to contact me via email at (wangtaomarvel at gmail dot com).
+I am currently the **CTO of <a href='https://uni-ubi.com'>UniUbi (宇泛)</a>**, leading R&D on **quadruped robots (robot dogs)**. Our team developed a high-performance quadruped capable of a **720° aerial flip**—to our knowledge, a world first—and supports **multi-robot swarm control** for coordinated missions. This work has also been featured in **CCTV (央视)** interviews.
+
+Previously, I was a Senior Algorithm Expert in the Multimodal Group at <a href='https://www.01.ai'>01.AI</a>, working on computer vision, vision-language modeling, and controllable multimodal generation (image / video / speech). Before that, I headed the AI department at Xinhua Zhiyun (an Alibaba-affiliated company), and earlier co-founded UniUbi as CTO. I received my master's degree in 2015 from the Institute of Automation, Chinese Academy of Sciences, under the supervision of Professor <a href='https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN'>Stan Z. Li</a>.
+
+If you are interested in quadruped robotics, embodied AI, or multimodal systems, feel free to contact me at (wangtaomarvel at gmail dot com).
 
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2026*: &nbsp;🎉🎉 Interviewed by **CCTV** on UniUbi’s quadruped robotics R&D and real-world deployment.
+- *2026*: &nbsp;🎉🎉 Built a quadruped robot dog featuring **720° aerial flips** and **multi-robot swarm / collaborative control**.
 
 # 💻 Projects 
+
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge">Featured</div>
+<img src='images/robot_dog.png' alt="quadruped robot dog" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+<b>High-Performance Quadruped Robot Dog @ UniUbi</b>
+
+- Project Duration: 2026–Present
+- Developed a quadruped platform capable of a **720° aerial flip**, among the first of its kind worldwide.
+- Enabled **multi-robot swarm control** with strong multi-agent collaboration for coordinated tasks.
+- Featured in **CCTV** media coverage; demonstrated at major robotics events such as the World Robot Conference.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge"></div>
+<img src='images/SIDP.png' alt="SIDP visual navigation" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+<b>Self-Imitated Diffusion Policy for Efficient and Robust Visual Navigation</b>
+
+- Project Duration: 2026
+- Propose **SIDP**, a self-imitated diffusion policy that selectively imitates high-reward trajectories sampled from itself, reducing reliance on the costly “generate-then-filter” inference pipeline.
+- Introduce a **reward-guided self-imitation** mechanism that encourages consistently high-quality trajectory generation for efficient and robust visual navigation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge"></div>
+<img src='images/gnig.png' alt="Goal-oriented Navigation Instruction Generation" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+<b>Goal-oriented Navigation Instruction Generation with Tour Video Priors</b>
+
+- Project Duration: 2026
+- Introduce **VideoNIG**, a goal-oriented video-grounded navigation instruction generation task that produces step-by-step instructions from ego-centric tour videos, an initial observation, and a multimodal goal—without relying on maps or graphs.
+- Propose a **two-stage curriculum learning** framework (Action Warmup + Complexity Progression) that improves long-horizon spatial reasoning and yields instructions executable by downstream VLN agents.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'>
 <div>
@@ -240,6 +293,7 @@ Your browser does not support the audio element.
 
 # 📝 Publications 
 <!-- - [Face liveness detection using 3D structure recovered from a single camera](https://nlpr.ia.ac.cn/2013papers/gjhy/gh95.pdf), Wang T, Yang J, Lei Z, et al. -->
+- Runhua Zhang, Junyi Hou, Changxu Cheng, Qiyi Chen, **Tao Wang**, Wuyue Zhao. "[Self-Imitated Diffusion Policy for Efficient and Robust Visual Navigation](https://arxiv.org/abs/2601.22965)". **IEEE Robotics and Automation Letters (RA-L), 2026**.
 - **Tao Wang**, Jianwei Yang, Zhen Lei, Shengcai Liao, Stan Z. Li. “Face Liveness Detection
 Using 3D Structure Recovered from a Single Camera”. ICB2013. Madrid, Spain, June 4-7, 2013. Citations:162
 - **Tao Wang**, Changxu Cheng, Lingfeng Wang, Senda Chen, Wuyue Zhao. "HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model". arXiv:2503.13026. Accepted by **ICCV 2025**. the code is at <a href='https://github.com/yayafengzi/LMM-HiMTok'>GitHub</a>

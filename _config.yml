@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao Wang"
-description              : "Senior Algorithm Expert"
+description              : "CTO @ UniUbi | Senior Algorithm Expert"
 repository               : "wtmarvel/wtmarvel.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tao Wang"
-  avatar           : "images/profile.png"
-  bio              : "01.AI"
+  avatar           : "images/CTO.png"
+  bio              : "CTO @ UniUbi"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
