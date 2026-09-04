@@ -23,11 +23,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 About Me
 
-I am currently the **CTO of <a href='https://uni-ubi.com'>UniUbi (宇泛)</a>**, leading R&D on **quadruped robots (robot dogs)**. Our team developed a high-performance quadruped capable of a **720° aerial flip**—to our knowledge, a world first—and supports **multi-robot swarm control** for coordinated missions. This work has also been featured in **CCTV (央视)** interviews.
+I am currently the **CTO of <a href='https://uni-ubi.com'>UniUbi (宇泛)</a>**, where I lead R&D at the intersection of **Physical AI**, **embodied intelligence**, and **legged robotics**. Our team has built a high-performance quadruped platform capable of a **720° aerial flip**—to our knowledge, a world first—and developed **multi-robot swarm control** for coordinated real-world missions. This work has been featured in **CCTV (央视)** interviews.
 
-Previously, I was a Senior Algorithm Expert in the Multimodal Group at <a href='https://www.01.ai'>01.AI</a>, working on computer vision, vision-language modeling, and controllable multimodal generation (image / video / speech). Before that, I headed the AI department at Xinhua Zhiyun (an Alibaba-affiliated company), and earlier co-founded UniUbi as CTO. I received my master's degree in 2015 from the Institute of Automation, Chinese Academy of Sciences, under the supervision of Professor <a href='https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN'>Stan Z. Li</a>.
+Previously, I was a Senior Algorithm Expert in the Multimodal Group at <a href='https://www.01.ai'>01.AI</a>, focusing on computer vision, vision-language modeling, and controllable multimodal generation (image, video, and speech). Before that, I headed the AI department at Xinhua Zhiyun (an Alibaba-affiliated company), and earlier co-founded UniUbi as CTO. I received my master’s degree in 2015 from the Institute of Automation, Chinese Academy of Sciences, under the supervision of Professor <a href='https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN'>Stan Z. Li</a>.
 
-If you are interested in quadruped robotics, embodied AI, or multimodal systems, feel free to contact me at (wangtaomarvel at gmail dot com).
+I am broadly interested in **Physical AI**, including embodied agents, robot learning, and multimodal foundation models for real-world interaction. Feel free to reach me at (wangtaomarvel at gmail dot com).
 
 
 
